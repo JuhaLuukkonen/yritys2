@@ -30,7 +30,7 @@ coverage html
 
 ### Running the React project
 
-First, `cd` the  create_react_app_1 directory and run:
+First, `cd` the  create_react_app_1 directory and react-app folder run:
 
 ```bash
 npm install
