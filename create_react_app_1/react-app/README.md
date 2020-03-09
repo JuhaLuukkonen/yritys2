@@ -1,4 +1,10 @@
-# React app inside Django
+# React app inside Django - Juha Luukkonen
+
+## Installation
+
+````bash
+npm install in react-app -folder
+````
 
 ## Development
 
